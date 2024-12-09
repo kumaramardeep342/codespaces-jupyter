@@ -13,17 +13,9 @@ This Streamlit application leverages Google's Gemini AI to provide intelligent t
 - **Python 3.8+**
 - **Google AI Studio API Key**
 
-# 🚀 Installation
-1. Clone the repository:
-```bash
-clone https://github.com/yourusername/gemini-text-summarizer.git
-cd gemini-text-summarizer 
-```
-2. Create a virtual environment:
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
+# 🚀 Codespaces Setup
+1. Click the "Code" button in the repository
+2. Select "Create codespace on main"
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
