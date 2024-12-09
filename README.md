@@ -5,21 +5,21 @@ This Streamlit application leverages Google's Gemini AI to provide intelligent t
 
 # 🌟 Features
 - **Easy-to-Use Interface:** Simple Streamlit web app
-Powered by Gemini AI: Utilizes Google's state-of-the-art language model
-Flexible Summarization: Works with various types of text
-Secure API Key Management: Allows users to input their own Google AI API key
+- **Powered by Gemini AI:** Utilizes Google's state-of-the-art language model
+- **Flexible Summarization:** Works with various types of text
+- **Secure API Key Management:** Allows users to input their own Google AI API key
 
-🛠 Prerequisites
+# 🛠 Prerequisites
 
-Python 3.8+
-Google AI Studio API Key
+- **Python 3.8+**
+- **Google AI Studio API Key**
 
-🚀 Installation
+# 🚀 Installation
 
-Clone the repository:
+1. Clone the repository:
 
-bashCopygit clone https://github.com/yourusername/gemini-text-summarizer.git
-cd gemini-text-summarizer
+`clone https://github.com/yourusername/gemini-text-summarizer.git
+`cd gemini-text-summarizer
 
 Create a virtual environment:
 
