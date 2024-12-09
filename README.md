@@ -20,12 +20,14 @@ This Streamlit application leverages Google's Gemini AI to provide intelligent t
 
 ```bash
 clone https://github.com/yourusername/gemini-text-summarizer.git
-cd gemini-text-summarizer
+cd gemini-text-summarizer ```
 
-Create a virtual environment:
+2. Create a virtual environment:
 
+```bash
 bashCopypython3 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
 
 Install dependencies:
 
