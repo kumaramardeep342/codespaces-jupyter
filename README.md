@@ -9,7 +9,7 @@ This Streamlit application leverages Google's Gemini AI to provide intelligent t
 - **Flexible Summarization:** Works with various types of text
 - **Secure API Key Management:** Allows users to input their own Google AI API key
 
-# 🛠 Prerequisites
+# Prerequisites
 - **Python 3.8+**
 - **Google AI Studio API Key**
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 2. Click "Create API Key"
 3. Copy the generated key
 
-# 🖥 Running the App
+# Running the App
 ```bash
 streamlit run summarization_app.py
 ````
@@ -57,7 +57,7 @@ streamlit run summarization_app.py
 - LangChain
 - Tiktoken
 
-# 🤝 Contributing
+# Contributing
 - Fork the repository
 - Create your feature branch (git checkout -b feature/AmazingFeature)
 - Commit your changes (git commit -m 'Add some AmazingFeature')
@@ -72,4 +72,4 @@ Distributed under the MIT License. See LICENSE for more information.\
 - Google Generative AI
 - LangChain
 
-# Disclaimer: This project is not officially associated with Google or Gemini. It's a community-driven project demonstrating the capabilities of Gemini AI.
+ **Disclaimer:** This project is not officially associated with Google or Gemini. It's a community-driven project demonstrating the capabilities of Gemini AI for learning and exploring.
