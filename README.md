@@ -18,8 +18,9 @@ This Streamlit application leverages Google's Gemini AI to provide intelligent t
 
 1. Clone the repository:
 
-`clone https://github.com/yourusername/gemini-text-summarizer.git
-`cd gemini-text-summarizer
+```bash
+clone https://github.com/yourusername/gemini-text-summarizer.git
+cd gemini-text-summarizer
 
 Create a virtual environment:
 
